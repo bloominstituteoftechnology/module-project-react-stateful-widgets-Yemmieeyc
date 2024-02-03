@@ -16,7 +16,7 @@ root.render(
   <>
     {/* <Counter /> */}
     {/* <Moods /> */}
-    <Spinner />
+    {/* <Spinner /> */}
     <Input />
     <Squares />
     <Programmers />
